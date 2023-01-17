@@ -2,11 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C71585&size=35&center=true&vCenter=true&width=1000&lines=Oii!+Eu+sou+a+Babi;Técnica+de+informática;Estudante+de+ciência+de+dados;Be+Welcome!)](https://git.io/typing-svg)
 
- <div align="center" style="display: inline_block">
-    <!--<a href="https://github.com/BabiOlv/BabiOlv">
-    <img width="70%" height="200px" src="https://github-readme-stats.vercel.app/api?username=BabiOlv&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabiOlv&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" /> -->
-</div>
+<!-- <div align="center" style="display: inline_block">
+    <a href="https://github.com/BabiOlv/BabiOlv">
+    <img width="55%" height="150px" src="https://github-readme-stats.vercel.app/api?username=BabiOlv&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+   <img width="40%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabiOlv&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+</div> -->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BabiOlv&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -50,3 +50,4 @@
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C71585&height=120&section=footer"/>
+
